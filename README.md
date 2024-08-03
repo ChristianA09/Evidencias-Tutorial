@@ -11,4 +11,5 @@ Aquí adjunto las evidencias del tutorial para el curso de diseño lógico
 ![Captura de pantalla 2024-08-02 233705](https://github.com/user-attachments/assets/9f3a49f9-7f50-4de0-940f-7b16b9e496cb)
 ![Captura de pantalla 2024-08-02 233954](https://github.com/user-attachments/assets/77f47742-5126-489f-bb4d-a286ebbe1860)
 ![Captura de pantalla 2024-08-02 234334](https://github.com/user-attachments/assets/945ecb9f-48fa-4569-89c8-4e2378879e78)
+![Captura de pantalla 2024-08-02 235004](https://github.com/user-attachments/assets/15a1ce35-3d29-4564-bcc5-80487aeb08b5)
 
