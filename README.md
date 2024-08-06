@@ -12,4 +12,13 @@ Aquí adjunto las evidencias del tutorial para el curso de diseño lógico
 ![Captura de pantalla 2024-08-02 233954](https://github.com/user-attachments/assets/77f47742-5126-489f-bb4d-a286ebbe1860)
 ![Captura de pantalla 2024-08-02 234334](https://github.com/user-attachments/assets/945ecb9f-48fa-4569-89c8-4e2378879e78)
 ![Captura de pantalla 2024-08-02 235004](https://github.com/user-attachments/assets/15a1ce35-3d29-4564-bcc5-80487aeb08b5)
+![Captura de pantalla 2024-08-05 164623](https://github.com/user-attachments/assets/b2d1e527-7ff1-44ef-b58c-c0e0326f98a7)
+![Captura de pantalla 2024-08-05 164642](https://github.com/user-attachments/assets/614fd1eb-9c88-4522-8f8a-9ed307d4e36a)
+![Captura de pantalla 2024-08-05 164921](https://github.com/user-attachments/assets/5c05e4a6-6bf9-4242-ac24-8dc58ed06588)
+![Captura de pantalla 2024-08-05 172808](https://github.com/user-attachments/assets/1c650001-1df7-4d4c-8e50-bf9ab883c6db)
+![Captura de pantalla 2024-08-05 180247](https://github.com/user-attachments/assets/4d6acd42-68dd-498a-95ed-347f56e7dd1f)
+![Captura de pantalla 2024-08-05 180306](https://github.com/user-attachments/assets/8b9b2db5-e17d-4ba1-9b53-55350cfe0d90)
+![Captura de pantalla 2024-08-05 180849](https://github.com/user-attachments/assets/f6c44920-d525-447a-a6e8-f185a9b72d26)
+![Captura de pantalla 2024-08-05 181332](https://github.com/user-attachments/assets/65fb74ce-07b9-4547-986d-eb4ff13d3062)
+![Captura de pantalla 2024-08-05 234028](https://github.com/user-attachments/assets/07965638-db2a-41ac-8a51-9cbb0a488120)
 
